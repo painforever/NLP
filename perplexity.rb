@@ -1,0 +1,1 @@
+http://www.cs.utexas.edu/~mooney/cs388/slides/equation-sheet.pdf
